@@ -2,7 +2,7 @@
 
 Simple pure HTML/CSS static page of a coffee store.
 
-![Brafe-1-puro](https://user-images.githubusercontent.com/52302576/82130566-dd35ad00-97a2-11ea-8c72-99abe8cee88a.png)
+![brafe-1-puro](https://user-images.githubusercontent.com/52302576/82131648-cc3e6900-97ad-11ea-878c-6556794cddcd.png)
 
 
 ## Getting Started
