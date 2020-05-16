@@ -1,6 +1,6 @@
 # Brafé
 
-Simple Coffee Store.
+Simple pure HTML/CSS static page of a coffee store.
 
 ![Brafe-1-puro](https://user-images.githubusercontent.com/52302576/82130566-dd35ad00-97a2-11ea-8c72-99abe8cee88a.png)
 
@@ -17,7 +17,6 @@ Open index.html
 
 * HTML
 * CSS
-* JS
 
 ## Authors
 
