@@ -1,4 +1,4 @@
-# Brafé
+# Brafé 1
 
 Simple pure HTML/CSS static page of a coffee store.
 
