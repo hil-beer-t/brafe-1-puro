@@ -1,4 +1,4 @@
-# Brafé 1
+# [Brafé 1](https://hil-beer-t.github.io/brafe-1-puro/)
 
 Simple pure HTML/CSS static page of a coffee store.
 
